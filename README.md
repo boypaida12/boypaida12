@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Bernard Addy Sackey</h1>
 <h3 align="center">Learning to code everyday from Ghana!</h3>
+<p align="center">
+Reach me via email: baddysackey5@gmail.com
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=boypaida12&label=Profile%20views&color=0e75b6&style=flat" alt="boypaida12" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boypaida12" alt="boypaida12" /></a> </p>
 <br>
 <br>
 <br>
-
+<p align="center">
             - 🌱 I’m currently learning **Javascript**
-
+</p>
+<p align="center">
             - 💬 Ask me about HTML || CSS || Bootstrap || Tailwindcss
+</p>
 
-            - 📫 How to reach me **baddysackey5@gmail.com**
 
+
+<p align="center">
             - ⚡ Fun fact **I've watched Friends more than 10 times**
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
