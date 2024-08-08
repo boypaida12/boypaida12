@@ -9,10 +9,10 @@ Reach me via email: baddysackey5@gmail.com
 <br>
 <br>
 <p align="center">
-            - 🌱 I’m currently learning **FLUTTER**
+            - 🌱 I’m currently learning **NEXTJS**
 </p>
 <p align="center">
-            - 💬 Ask me about HTML || CSS || Bootstrap || Tailwindcss || REACTJS || Chakra || Material UI
+            - 💬 Ask me about HTML || CSS || Bootstrap || Tailwindcss || REACTJS || Chakra || Material UI || Flutter
 </p>
 
 
