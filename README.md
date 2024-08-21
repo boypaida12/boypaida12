@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernard Addy Sackey</h1>
+<h2 align="center">Frontend Developer</h2>
 <h3 align="center">Learning to code everyday from Ghana!</h3>
 <p align="center">
 Reach me via email: baddysackey5@gmail.com
