@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernard Addy Sackey</h1>
-<h2 align="center">Frontend Developer</h2>
-<h3 align="center">Learning to code everyday from Ghana!</h3>
+<h2 align="center">Frontend Engineer | React • TypeScript • Next.js</h2>
 <p align="center">
 Reach me via email: baddysackey5@gmail.com
 </p>
@@ -10,10 +9,11 @@ Reach me via email: baddysackey5@gmail.com
 <br>
 <br>
 <p align="center">
-            - 🌱 I’m currently learning **NEXTJS**
+           I build responsive, accessible and user-focused web applications with React, TypeScript and Next.js. My background spans frontend engineering and product development, giving me a strong understanding of both implementation and user needs.
+            Currently exploring modern React patterns, AI-assisted development and building production-quality interfaces.
 </p>
 <p align="center">
-            - 💬 Ask me about HTML || CSS || Bootstrap || Tailwindcss || REACTJS || Chakra || Material UI || Flutter
+            - 💬 Ask me about HTML || CSS || Bootstrap || Tailwindcss || REACTJS || Chakra || Material UI || Flutter || Nextjs
 </p>
 
 
